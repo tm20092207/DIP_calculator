@@ -10,9 +10,14 @@ class mycalculator:
 
             self.label = tk.Label(self.root, text="hello world!", font=('Arial', 18)) 
             self.label. pack()
-            self.button = tk.Button(self.root, text="Click Here!")
+            self.button = tk.Button(self.root, text="7")
             self.button.place(x=110, y=100)
-
+            self.button = tk.Button(self.root, text="8")
+            self.button.place(x=110, y=100)
+            self.button = tk.Button(self.root, text="9")
+            self.button.place(x=110, y=100)
+            self.button = tk.Button(self.root, text="Click Here!")
+            self.button.place(x=110, y=100)                        
             self.root.mainloop()
 
-mycalculator()
+mycalculator() 
