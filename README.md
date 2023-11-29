@@ -14,6 +14,8 @@
 2. download vscode
 3. clone repository
 4. พิมพ์ terminal user.name user.emai
+5. commit
+6. สร้าง maim.py แล้วเอาโค้ดมาใส่
 
 ## Disclaimer
 for educational purpose only. Run on your own risk.
